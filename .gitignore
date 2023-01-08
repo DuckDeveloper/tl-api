@@ -1,0 +1,9 @@
+node_modules
+build
+
+# env
+.env
+
+# custom
+.idea
+.vscode
